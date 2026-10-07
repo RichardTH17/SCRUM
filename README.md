@@ -8,3 +8,4 @@ Repositorio para trabajar la metodología SCRUM
 
 2. **Development Tam** - Hector Sanchez
 
+3. **Development Team** Rafael Calderón Santana
